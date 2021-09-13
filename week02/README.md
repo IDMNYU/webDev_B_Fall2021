@@ -3,6 +3,18 @@
 * [Commands that work on Windows powershell](https://dev.to/heytimapple/linux-commands-that-work-in-powershell-by-default-17gd)
 * [More powershell commands](https://mathieubuisson.github.io/powershell-linux-bash/)
 
+###### Unix Commands
+```
+**pwd** - “present working directory” - where am i in the system!?.
+**ls** - list everything in this directory 
+**cd** - “change diretory [insert name of folder]” - 
+**..**  -  goes back to the parent directory 
+**mkdir** -  “make directory” - make a folder
+**rm**- “remove file”- deletes a file forever (not the trash). doesn’t work on directories
+**mv*** -  “move” - move file 
+      
+```
+
 ###### Markdown:
 * [basic syntax](https://www.markdownguide.org/basic-syntax/)
 * [syntax editor](https://stackedit.io/)
