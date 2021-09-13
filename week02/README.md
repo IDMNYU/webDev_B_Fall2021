@@ -1,5 +1,7 @@
-###### Github Registration
-* [Student developer pack](https://education.github.com/pack)
+###### Unix Stuff
+* [Basic Unix Commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+* [Commands that work on Windows powershell](https://dev.to/heytimapple/linux-commands-that-work-in-powershell-by-default-17gd)
+* [More powershell commands](https://mathieubuisson.github.io/powershell-linux-bash/)
 
 ###### Markdown:
 * [basic syntax](https://www.markdownguide.org/basic-syntax/)
@@ -26,6 +28,4 @@
 
 ###### Web Dev, Git, Unix, etc Texts + Tutorals
 * [Learn Enough to Be Dangerous](https://www.learnenough.com/courses) - as studnets you can get access for free via a scholarship
-week02 stuff
-
 
