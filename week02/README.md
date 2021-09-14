@@ -5,7 +5,7 @@
 
 ###### Unix Commands
 ```
-**pwd** - “present working directory” - where am i in the system!?.
+** pwd ** - “present working directory” - where am i in the system!?.
 **ls** - list everything in this directory 
 **cd** - “change diretory [insert name of folder]” - 
 **..**  -  goes back to the parent directory 
