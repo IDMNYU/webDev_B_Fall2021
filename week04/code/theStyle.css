@@ -1,0 +1,45 @@
+body {
+    background-color: green;
+}
+
+#theEyes {
+    text-align: center;
+}
+
+button {
+    padding: 50px;
+}
+
+button:hover {
+    background-color: pink;
+    color: blue;
+    font-size: 6vw;
+}
+
+#theNose {
+    background-color: yellow;
+    height: 40vh;
+    width: 5px;
+    margin-left: auto;
+    margin-right:auto;
+    /* transform: rotate(10deg); */
+}
+
+#theMouth {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    border: solid 15px black;
+}
+
+#theMouth p{
+    background-color:white;
+    padding: 5vw;
+}
+
+.theTeeth {
+    flex-grow: 1;
+    margin: 5px;
+}
+
+
