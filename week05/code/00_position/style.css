@@ -2,14 +2,24 @@
 
 h1 {
 	background: rgb(0,20,220);
-	/* // let's try this: */
+	font-family: 'Rubik Beastly', cursive;
+    font-size: 9vw;
 
 
 }
 
+#theFlexContainer {
+	display: flex;
+	background-color: yellow;
+	padding: 2vw;
+	border: solid red;
+	margin: 5vh;
+}
 body {
 	/* background: rgb(200,150,150); */
 	background-color: rgb(255,192,203);
+	font-family: 'PT Sans Caption', sans-serif;
+	
 }
 
 p {
@@ -19,6 +29,13 @@ p {
 
 }
 
+.flexies {
+	background-color: aqua;
+	border: none;
+	margin: 4vh;
+	padding: 1px;
+	justify-content: center;
+}
 /* i have made different positioning decisions to the <p> tag w/ the class .thePostition. turn the following code blocks off + on to see how they changed the web page */
 
 /* .thePosition {
