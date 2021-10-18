@@ -47,7 +47,12 @@ body{
    
    }
    
+
    img {
-     /* width: 20vw; */
-     display:block;
+     /* width: 500px;
+     display:block; */
+   }
+   #thisWorld {
+       background-color: yellow;
+       width:20vw;
    }
