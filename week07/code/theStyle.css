@@ -47,12 +47,19 @@ body{
    
    }
    
+ #thisWorld {
+    height: 400px;
+    background-color: yellow;
+ }
+   #thisWorld img {
+     width: 500px;
+   
+   }
 
-   img {
-     /* width: 500px;
-     display:block; */
+   #thisWorld:hover {
+       background-color: pink;
    }
-   #thisWorld {
-       background-color: yellow;
-       width:20vw;
-   }
+
+   #thisWorld img:hover {
+    display: none;
+}
