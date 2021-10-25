@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+
+p {
+    font-size: 65px;
+}
+
+p:hover {
+    font-size:100px;
+    color: red;
+}
